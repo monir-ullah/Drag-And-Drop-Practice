@@ -19,4 +19,3 @@ div.addEventListener("drop", function (e) {
   e.preventDefault();
 });
 
-// How are you?
